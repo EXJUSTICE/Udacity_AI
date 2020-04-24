@@ -13,7 +13,7 @@
 </p>
      
 
-# About this project
+# About
 
 This repository hosts the 1st project on Udacity Deep Reinforcement Learning nanodegree. The goal of the agent is to gather yellow bananas while avoiding the blue ones. The environment is based on the Unity Environment, specifically the BananaBrain environment, with the environment details provided below.
 
