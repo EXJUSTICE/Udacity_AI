@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[image1]: https://raw.githubusercontent.com/EXJUSTICE/Udacity_AI/master/Reinforcement_Learning/Navigation/NAVIGATION_DQN_RESULTS.png
 
 # About this project
 **[Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)**
