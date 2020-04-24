@@ -27,7 +27,7 @@ Unity brain name: BananaBrain
         Vector Action space size (per agent): 4
         Vector Action descriptions: , , , 
 ```
-An agent was trained using Deep Q Learning to solve this task, which it accomplished (beating the mean score of 13 over 100 episodes) after ca. 500 episodes.
+An agent was trained using Deep Q Learning to solve this task, which it accomplished (beating the mean score of 13 over 100 episodes) after ca. 500 episodes. Trained with GPU-enabled in the Udacity workspace, although any GPU-enabled instance should work.
 
 # Project Details
 
@@ -74,4 +74,4 @@ and execute! Finished training weights are also provided in the 'checkpoint_dqn_
 
 # Additional informations
 - [Performance Report](./Report.md) : Result report of training score
-when using Double-DQN as agent.
+when using a DQN agent.
