@@ -1,3 +1,4 @@
+# Udacity Reinforcement Learning Project 1: Navigation
 [//]: # (Image References)
 </p>
 
@@ -13,24 +14,27 @@
      
 
 # About this project
-**[Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)**
-is MOOCs lecture by [Udacity](https://www.udacity.com/) in which DeepRL experts
-teach basic knowledge and implementation techniques about Deep RL via online video
-(mainly Youtube contents), and there are a lot of implementation tutorials
-in which each student has to implement various DeepRL algorithms.
 
-This repository of DeepRL source code is work of 1st "Project" in this Nanodegree.
-This is at the end of Lecture Part2, **Value-Based Methods** including
-**Deep Q-Learning** and other developed methods (Double DQN, Prioritized Replay..)
-The project goal is to implement smart agent walking around game simulator
-which is created by using Unity ML-Agents([github repository](https://github.com/Unity-Technologies/ml-agents))
+This repository hosts the 1st project on Udacity Deep Reinforcement Learning nanodegree. The goal of the agent is to gather yellow bananas while avoiding the blue ones. The environment is based on the Unity Environment, specifically the BananaBrain environment, with the environment details provided below.
+
+```
+Unity brain name: BananaBrain
+        Number of Visual Observations (per agent): 0
+        Vector Observation space type: continuous
+        Vector Observation space size (per agent): 37
+        Number of stacked Vector Observation: 1
+        Vector Action space type: discrete
+        Vector Action space size (per agent): 4
+        Vector Action descriptions: , , , 
+```
+An agent was trained using Deep Q Learning to solve this task, which it accomplished (beating the mean score of 13 over 100 episodes) after ca. 500 episodes.
 
 # Project Details
-![Trained Agent][image1]
+
 
 In the simulator, there are two types of bananas, yellow ones and blue ones.
-If he catches yellow one, he gets positive reward (+1). But if he catches blue one,
-he gets negative reward (-1). Thus, the goal of the agent is to collect
+If the agent catches a yellow one, they get positive reward (+1). If they catch a blue one,
+they get negative reward (-1). Thus, the goal of the agent is to collect
 as many yellow bananas as possible while avoiding blue bananas.
 
 Students need to implement DeepRL agent using Python and Pytorch.
@@ -65,9 +69,8 @@ get an average score of +13 over 100 consecutive episodes.
 3. Place the file in `bin/` directory, and unzip (or decompress) the file.
 
 # Instructions
-To train the agent, start jupyter notebook, open `TrainDQN.ipynb`
-and execute! For more information, please check instructions
-inside the notebook.
+To train the agent, start jupyter notebook, open `Navigation.ipynb`
+and execute! Finished training weights are also provided in the 'checkpoint_dqn_nav.pth' file
 
 # Additional informations
 - [Performance Report](./Report.md) : Result report of training score
