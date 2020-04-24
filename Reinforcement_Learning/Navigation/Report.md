@@ -1,6 +1,10 @@
 # Project report
 
 ## Learning algorithm
+<p align="center">
+  <img src= "https://github.com/EXJUSTICE/Udacity_AI/blob/master/Reinforcement_Learning/Navigation/qlearn.png?raw=true">
+</p>
+
 
 The learning algorithm used is a vanilla Deep Q Learning as described in the original paper. As a the vector of state was used instead of an image input, the architecture consists of a three layer fully connected neural network. The deep neural network has following layers:
 
