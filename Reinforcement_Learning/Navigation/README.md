@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif">
+  <img src= "https://github.com/EXJUSTICE/Udacity_AI/blob/master/Reinforcement_Learning/Navigation/qlearndemo.gif?raw=true">
 </p>
 
 
