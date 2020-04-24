@@ -2,7 +2,18 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
+</p>
+<p align="center">
+  <img src= https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif">
+</p>
+
 [image2]: https://raw.githubusercontent.com/EXJUSTICE/Udacity_AI/master/Reinforcement_Learning/Navigation/NAVIGATION_DQN_RESULTS.png
+
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EXJUSTICE/Udacity_AI/master/Reinforcement_Learning/Navigation/NAVIGATION_DQN_RESULTS">
+</p>
+     
 
 # About this project
 **[Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)**
