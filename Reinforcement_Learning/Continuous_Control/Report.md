@@ -40,7 +40,7 @@ Final Parameters used in DDPG training:
 
 </p>
 <p align="center">
-  <img src="https://github.com/EXJUSTICE/Udacity_AI/blob/master/Reinforcement_Learning/Continuous_Control/contcontrol_results.png?raw=true">
+  <img src="https://github.com/EXJUSTICE/Udacity_AI/blob/master/Reinforcement_Learning/Continuous_Control/contcontrol_results2.png?raw=true">
 </p>
      
 The problem was solved after 78 episodes, where solving is defined as a score of above 30 for over 100 episodes. Note that our early convergence can be attributed to the fact that we had 20 concurrent agents working in our environment, in effect multiplying our effective episodic experiences. It was observed that large buffer sizes (1024) and smaller networks (128,256) seemed to perform better than small buffer sizes and larger networks, which was attributed to the availability of data and improved generalization capability.
