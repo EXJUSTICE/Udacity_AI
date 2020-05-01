@@ -15,7 +15,9 @@
 
 # About
 
-This repository hosts the 2nd project on Udacity Deep Reinforcement Learning nanodegree. The 3D environment contains 20 agents expressed as doubly-joined arms, who can move freely to reach the target locations. A reward of +0.1 is provided for each step where the agent's hand is in the goal area. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible, where the goal area will move. The environment is based on the Unity Environment, specifically the Reacher environment, with the environment details provided below.
+This repository hosts the 2nd project on Udacity Deep Reinforcement Learning nanodegree. The 3D environment contains 20 agents expressed as doubly-joined arms, who can move freely to reach the target locations. A reward of +0.1 is provided for each step where the agent's hand is in the goal area. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible, where the goal area will move. 
+
+The environment is based on the Unity Environment, specifically the Reacher environment, with the environment details provided below.
 
 ```
 Unity brain name: ReacherBrain
