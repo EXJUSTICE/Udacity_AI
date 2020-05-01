@@ -29,7 +29,7 @@ Unity brain name: ReacherBrain
         Vector Action space size (per agent): 4
         Vector Action descriptions: , , ,  
 ```
-An agent was trained using DDPG Learning to solve this task, which it accomplished (beating the mean score of 30 over 100 episodes) after ca. 100 episodes. Trained with GPU-enabled in the Udacity workspace, although any GPU-enabled instance should work.
+An agent was trained using DDPG Learning to solve this task, which it accomplished (beating the mean score of 30 over 100 episodes) after 78 episodes. Trained with GPU-enabled in the Udacity workspace, although any GPU-enabled instance should work.
 
 # Project Details
 
@@ -44,7 +44,7 @@ Students need to implement DeepRL agent using Python and Pytorch.
 The simulation contains a 20 agents that concurrently operate in an environment
 At each time step, each has four continuous actions, corresponding to torque applicable to two joints.
 
-The state space has `337` dimensions that cover the agent's position, rotation, velocity, and angular velocities.
+The state space has `33` dimensions that cover the agent's position, rotation, velocity, and angular velocities.
 
 The task is episodic, and in order to solve the environment, the agent must
 get an average score of +30 over 100 consecutive episodes.
