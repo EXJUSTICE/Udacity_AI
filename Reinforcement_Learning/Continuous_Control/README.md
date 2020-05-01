@@ -29,7 +29,7 @@ Unity brain name: ReacherBrain
         Vector Action space size (per agent): 4
         Vector Action descriptions: , , ,  
 ```
-An agent was trained using DDPG Learning to solve this task, which it accomplished (beating the mean score of 30 over 100 episodes) after 78 episodes. Trained with GPU-enabled in the Udacity workspace, although any GPU-enabled instance should work.
+An agent was trained using DDPG Learning to solve this task, which it accomplished (beating the mean score of 30 over 100 episodes) after 100 episodes. Trained with GPU-enabled in the Udacity workspace, although any GPU-enabled instance should work.
 
 # Project Details
 Students need to implement DeepRL agent using Python and Pytorch.
