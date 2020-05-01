@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://github.com/EXJUSTICE/Udacity_AI/blob/master/Reinforcement_Learning/Navigation/qlearndemo.gif?raw=true">
+  <img src= "https://github.com/EXJUSTICE/Udacity_AI/blob/master/Reinforcement_Learning/Continuous_Control/continuouscontrol.gif?raw=true">
 </p>
 
 
