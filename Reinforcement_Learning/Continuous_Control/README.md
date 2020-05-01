@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EXJUSTICE/Udacity_AI/master/Reinforcement_Learning/Navigation/NAVIGATION_DQN_RESULTS.png">
+  <img src="https://github.com/EXJUSTICE/Udacity_AI/blob/master/Reinforcement_Learning/Continuous_Control/contcontrol_results2.png?raw=true">
 </p>
      
 
