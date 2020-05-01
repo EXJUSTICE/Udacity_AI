@@ -32,13 +32,6 @@ Unity brain name: ReacherBrain
 An agent was trained using DDPG Learning to solve this task, which it accomplished (beating the mean score of 30 over 100 episodes) after 78 episodes. Trained with GPU-enabled in the Udacity workspace, although any GPU-enabled instance should work.
 
 # Project Details
-
-
-In the simulator, there are two types of bananas, yellow ones and blue ones.
-If the agent catches a yellow one, they get positive reward (+1). If they catch a blue one,
-they get negative reward (-1). Thus, the goal of the agent is to collect
-as many yellow bananas as possible while avoiding blue bananas.
-
 Students need to implement DeepRL agent using Python and Pytorch.
 
 The simulation contains a 20 agents that concurrently operate in an environment
