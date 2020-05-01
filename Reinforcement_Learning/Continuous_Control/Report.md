@@ -6,6 +6,7 @@ The learning algorithm used is vanilla DDPG Learning as described in the origina
 
 It should be noted that as in DQN, a local and target network copy exists for both actor and target, where the target will be updated via a soft-update approach, where parameters are slowly updated iteratively, which has been shown to help convergence.
 
+## Architecture
 The actor neural network has following layers:
 
 - Fully connected layer - input: 33 (state size) output: 128
