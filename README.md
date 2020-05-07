@@ -1,5 +1,5 @@
-# Udacity Nanodegree Repository
-Repository for all Udacity Courses, 
+# Udacity AI Nanodegrees
+Repository for all projects and relevant notebooks, along with certificates of completion.
 *  Introduction to Pytorch Deep Learning Course
 *  Deep Learning Nanodegree
 *  Reinforcement Learning Nanodegree
